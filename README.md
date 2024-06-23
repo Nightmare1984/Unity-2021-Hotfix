@@ -1,6 +1,6 @@
 This is How To Fix Unity 2021 freezing Issue At Project Startup  
 
-1: Rename The bee_backend That Should Already in The Folder to bee_backend_real
+1: Rename The bee_backend That Should Already Be in The Unity Folder to bee_backend_real
 
 2: Create A New File Called bee_backend.sh Then copy And Past My Code In To The New File 
 
